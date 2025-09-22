@@ -168,11 +168,10 @@ cd fifo-ip-with-verification
 <p>
   <i>
   FIFO IPs with Verification — Designed Synchronous FIFO (single clock) and Asynchronous FIFO (dual clock, Gray-coded pointers with synchronizers);
-  built SystemVerilog VIP with constrained-random tests, scoreboard, protocol assertions, and coverage for underflow, overflow, and simultaneous read/write.
+  built Verilog VIP with constrained-random tests, scoreboard, protocol assertions, and coverage for underflow, overflow, and simultaneous read/write.
   </i>
 </p>
 
 <hr/>
 
-<h2>📜 License</h2>
-<p>MIT (or your preferred license)</p>
+
