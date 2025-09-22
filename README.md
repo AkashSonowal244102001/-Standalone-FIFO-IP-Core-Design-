@@ -160,12 +160,7 @@ cd fifo-ip-with-verification
   <li>✅ Async FIFO verified for Gray-coded pointer crossing and metastability mitigation</li>
 </ul>
 
-<p><i>(Optional) Add waveform screenshots and coverage summary images, e.g.:</i></p>
-<ul>
-  <li><code>Project_Essentials/Sync_FIFO_Wave.png</code></li>
-  <li><code>Project_Essentials/Async_FIFO_Wave.png</code></li>
-  <li><code>Project_Essentials/Coverage_Summary.png</code></li>
-</ul>
+
 
 <hr/>
 
