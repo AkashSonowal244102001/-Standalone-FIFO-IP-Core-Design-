@@ -18,7 +18,7 @@
 </p>
 
 <p>
-  To validate the design, a comprehensive <b>SystemVerilog Verification Environment</b> has been created.
+  To validate the design, a comprehensive <b>Verilog Verification Environment</b> has been created.
   It uses <b>constrained-random stimulus</b>, <b>scoreboard-based checking</b>, <b>protocol assertions</b>,
   and <b>functional coverage</b> to ensure correctness across a wide range of scenarios, including
   corner cases such as underflow, overflow, and simultaneous read/write operations. The asynchronous
