@@ -46,7 +46,7 @@
 </ul>
 
 <hr/>
-# 🏗️ Synchronous FIFO Block Diagram
+🏗️ Synchronous FIFO Block Diagram
 
 <p align="center">
   <img src="Project_Essentials/Block_Diagram_SYNCHRONOUS_FIFO.png" width="700" alt="Synchronous FIFO Block Diagram">
