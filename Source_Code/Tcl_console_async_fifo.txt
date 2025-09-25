@@ -1,0 +1,10 @@
+set_property top tb_async_fifo [get_filesets sim_1]
+update_compile_order -fileset sim_1
+catch { close_sim -quiet }
+launch_simulation
+
+# (optional) add waves and zoom
+add_wave -r /tb_async_fifo/*
+add_wave -r /tb_async_fifo/dut/*
+restart
+run 200 us
