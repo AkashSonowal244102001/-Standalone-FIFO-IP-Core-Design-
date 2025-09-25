@@ -137,11 +137,36 @@ cd fifo-ip-with-verification
 </code></pre>
 
 <hr/>
+
 <h2>🧪 Output_Synchronous_FIFO</h2>
 <ul>
 <p align="center">
   <img src="Project_Essentials/Sync_fifo_Output.png" width="700" alt="Synchronous FIFO Block Diagram">
 </p>
+
+
+<h2>🧪 Output_Synchronous_FIFO</h2>
+<ul>
+<p align="center">
+  <img src="Project_Essentials/async_fifo_Output_1.png" width="700" alt="Synchronous FIFO Block Diagram">
+</p>
+<p align="center">
+  <img src="Project_Essentials/async_fifo_Output_2.png" width="700" alt="Synchronous FIFO Block Diagram">
+</p>
+<p align="center">
+  <img src="Project_Essentials/async_fifo_Output_3.png" width="700" alt="Synchronous FIFO Block Diagram">
+</p>
+<p align="center">
+  <img src="Project_Essentials/async_fifo_Output_4.png" width="700" alt="Synchronous FIFO Block Diagram">
+</p>
+
+
+
+
+
+
+
+  
 <h2>🧪 Verification</h2>
 <ul>
   <li><b>Stimulus</b>: Constrained-random sequences for write/read operations with bursts and idle gaps</li>
